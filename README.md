@@ -3,7 +3,7 @@ Template repo for Homework
 
 ## Naming Standards:
 1. Repos shall be named DAT6\_(two or three letter initials - ALL CAPS) <br/>
-   **DAT\_DSS**
+   **DAT6\_DSS**
 
 2. Folders shall be named after the week the homework was assigned (with a two digit number)<br/>
    **Week03**
