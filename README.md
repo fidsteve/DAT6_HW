@@ -5,10 +5,10 @@ DAT6_DSS
 
 ## Naming Standards:
 1. Folders shall be named after the week the homework was assigned (with a two digit number)<br/>
-   *Week03*
+   **Week03**
 
 2. Homework assignment shall be named according to the following format: <br/>
-   *DS_HW(two digit class number).ipynb*<br/>
+   **DS_HW(two digit class number).ipynb**<br/>
    <br/>
    e.g. this is the homework that was assigned during class #3<br/>
        DS_HW03.ipynb  <br/>
