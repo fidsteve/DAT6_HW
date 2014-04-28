@@ -1,7 +1,7 @@
 DAT6_DSS
 ========
 
-### Template repo for Homework submission
+### Template repo for Homework 
 
 ## Naming Standards:
 1. Folders shall be named after the week the homework was assigned (with a two digit number)
@@ -9,6 +9,7 @@ DAT6_DSS
 
 2. Homework assignment shall be named according to the following format: <br/>
    DS_HW(two digit class number):<br/>
+   <br/>
    e.g. this is the homework that was assigned during class #3<br/>
        DS_HW03.ipynb  <br/>
    e.g. this is the homework that was assigned during class #4 with an optional description:<br/>
