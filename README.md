@@ -8,7 +8,7 @@ DAT6_DSS
    e.g.  Week03
 
 2. Homework assignment shall be named according to the following format: <br/>
-   DS_HW(two digit class number):<br/>
+   DS_HW(two digit class number).ipynb<br/>
    <br/>
    e.g. this is the homework that was assigned during class #3<br/>
        DS_HW03.ipynb  <br/>
